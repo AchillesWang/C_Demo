@@ -12,7 +12,9 @@ int main(int argc, const char * argv[])
 {
 
     // insert code here...
-    printf("Hello, World!\n");
+    int d = 0;
+    scanf("%d",&d);
+    printf("%d!\n",d);
     return 0;
 }
 
