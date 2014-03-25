@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>3F1443E3-17CB-4625-9AD2-5FFBF0B6C5DC</string>
+	<key>IDESourceControlProjectName</key>
+	<string>HelloWord</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>12CA5FC8-6FD5-4C40-BDA2-0EAA4C41CD3B</key>
+		<string>https://github.com/AchillesWang/C_Demo.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>HelloWord/HelloWord.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>12CA5FC8-6FD5-4C40-BDA2-0EAA4C41CD3B</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/AchillesWang/C_Demo.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>12CA5FC8-6FD5-4C40-BDA2-0EAA4C41CD3B</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>12CA5FC8-6FD5-4C40-BDA2-0EAA4C41CD3B</string>
+			<key>IDESourceControlWCCName</key>
+			<string>C_Demo</string>
+		</dict>
+	</array>
+</dict>
+</plist>
