@@ -5,19 +5,19 @@
 	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
 	<false/>
 	<key>IDESourceControlProjectIdentifier</key>
-	<string>3F1443E3-17CB-4625-9AD2-5FFBF0B6C5DC</string>
+	<string>E265F6A8-F1B6-4F3C-8FD7-F94841F6CED3</string>
 	<key>IDESourceControlProjectName</key>
-	<string>HelloWord</string>
+	<string>5</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
-		<key>12CA5FC8-6FD5-4C40-BDA2-0EAA4C41CD3B</key>
+		<key>C1F127F4-BEAE-4CC6-996F-8D9E4FB5C29D</key>
 		<string>https://github.com/AchillesWang/C_Demo.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
-	<string>HelloWord/HelloWord.xcodeproj/project.xcworkspace</string>
+	<string>5/5.xcodeproj/project.xcworkspace</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
-		<key>12CA5FC8-6FD5-4C40-BDA2-0EAA4C41CD3B</key>
+		<key>C1F127F4-BEAE-4CC6-996F-8D9E4FB5C29D</key>
 		<string>../../..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
@@ -25,14 +25,14 @@
 	<key>IDESourceControlProjectVersion</key>
 	<integer>110</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>12CA5FC8-6FD5-4C40-BDA2-0EAA4C41CD3B</string>
+	<string>C1F127F4-BEAE-4CC6-996F-8D9E4FB5C29D</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
 		<dict>
 			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
 			<string>public.vcs.git</string>
 			<key>IDESourceControlWCCIdentifierKey</key>
-			<string>12CA5FC8-6FD5-4C40-BDA2-0EAA4C41CD3B</string>
+			<string>C1F127F4-BEAE-4CC6-996F-8D9E4FB5C29D</string>
 			<key>IDESourceControlWCCName</key>
 			<string>C_Demo</string>
 		</dict>
